@@ -381,7 +381,7 @@ function resetSelectedFiles() {
 
 function onFilesDialogCalled(files) {
     filesToUpload = [];
-    var sizeLimit = 2097152; // 2MB
+    var sizeLimit = 52428800; // 50MB
 
     clearCheckBoxes();
 
