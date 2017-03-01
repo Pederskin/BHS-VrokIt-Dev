@@ -6,7 +6,7 @@ var _view_data_bucket = 'vrparty';
 var _default_models = {
     //'pumpkin'       : 'dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6dnJwYXJ0eS9wdW1rcGluX3YxLjcyODk1MjAzLTIzZTQtNGRkZi05MThlLWZhNjliOTlhYWJiOC5mM2Q',
     'robot arm'     : 'dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6c3RlYW1idWNrL1JvYm90QXJtLmR3Zng=',
-	'BHSTest'   : '<iframe src="https://myhub.autodesk360.com/ue29adc55/shares/public/SH7f1edQT22b515c761e602f3fd23fd43578?mode=embed" width="1024" height="768" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>',
+	//'BHSTest'   : '<iframe src="https://myhub.autodesk360.com/ue29adc55/shares/public/SH7f1edQT22b515c761e602f3fd23fd43578?mode=embed" width="1024" height="768" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>',
     //'welding robot' : 'dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6dnJwYXJ0eS9BQkJfcm9ib3QuZHdm',
     //'ergon chair'   : 'dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6c3RlYW1idWNrL0VyZ29uLnppcA==',
     //'differential'  : 'dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6c3RlYW1idWNrL0RpZmYuZHdmeA==',
